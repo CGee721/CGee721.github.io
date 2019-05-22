@@ -1,8 +1,12 @@
-.jumbotron{
-    background: url(../assets/photo-1443926818681-717d074a57af.jpg) no-repeat center;
+#jumboheader{
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8) );    
+    background-image: url('../assets/photo-1489060887344-f3a2c715dbe5.jpg');
     background-size: cover;
-    color: white;
-    text-align: center;
-    height: 500px;
+    background-position: center;
+    background-attachment: fixed;
+    color:rgb(54, 180, 54);
+    text-align: center ;
+    height: 100vh;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.4)
 
 }

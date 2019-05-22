@@ -1,4 +1,5 @@
-#nav-content{
+#navBar{
+    float: left;
     margin-left: 50%;
     list-style: none;
 }
